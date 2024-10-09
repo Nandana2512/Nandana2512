@@ -7,14 +7,19 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>ATM Machine</b>
-  - (https://github.com/Nandana2512/ATM Machine)
--
+  - (https://github.com/Nandana2512/ATM-Machine)
+- <b>Firebase App</b>
+  - (https://github.com/Nandana2512/Firebase-App)
+- <b>Bank DB</b>
+  - (https://github.com/Nandana2512/BankDB)
+- <b>Client Maintenance App</b>
+  - (https://github.com/Nandana2512/Client_Maintenenance)
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Nandana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nandana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/_v.i_r.s_h.e_r.e_a.d_s/
