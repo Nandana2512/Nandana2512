@@ -1,8 +1,26 @@
-<h1>Hi, I'm Nandana! <br/><a href="https://github.com/Nandana2512"></a><a href="https://www.linkedin.com/in/nandana-s-nair-8036732b7/">IT Programmer Analyst Student</a>, </h1>
+<h1>Hi, I'm Nandana! <br/><a href="https://github.com/Nandana2512"></a><a href="https://www.linkedin.com/in/nandana-s-nair-8036732b7/">IT Programmer Analyst Student</a></h1>
 
 
 - 🔭 I’m currently studying in LaSalle college
 - 🌱 I’m currently learning IT Programmer Analyst Course
+
+
+
+- SKILLS
+•	Object-Oriented Programming
+•	Algorithm Design
+•	Node.js
+•	Web Development
+•	Databases: Oracle, MSSQL
+•	Android development
+•	Programming Languages: Java, C#, .Net Framework, Python, J Query, PL/SQL, Swift, PHP
+•	Operating Systems: Windows, Linux
+•	MS Word, Excel, Power point
+•	IOS Mobile App development
+•	React
+
+
+
   
 <h2>👨‍💻 My Projects:</h2>
 
