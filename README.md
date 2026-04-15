@@ -1,8 +1,8 @@
-<h1>Hi, I'm Nandana! <br/><a href="https://github.com/Nandana2512"></a><a href="https://www.linkedin.com/in/nandana-s-nair-8036732b7/">A Passionate Programming Student</a></h1>
+<h1>Hi, I'm Nandana! <br/><a href="https://github.com/Nandana2512"></a><a href="https://www.linkedin.com/in/nandana-s-nair-8036732b7/">A Passionate Programmer</a></h1>
 
 
-- 🔭 I’m currently studying in LaSalle college
-- 🌱 I’m currently learning IT Programmer Analyst Course
+- 🔭 I’m a 2025 graduate of LaSalle College 
+- 🌱 in IT Programmer Analyst Course
 
 
 
